@@ -1,1 +1,2 @@
 SOD_Evaluation_Metrics-main是一个用于评价模糊识别指标的代码，引用自https://github.com/zyjwuyan/SOD_Evaluation_Metrics.git
+主要用于测试向库中添加代码
